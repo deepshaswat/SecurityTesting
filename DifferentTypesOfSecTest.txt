@@ -1,0 +1,15 @@
+Security Testing Techniques:
+1. Cross Site Scripting (XSS)
+	
+
+2. Ethical Hacking
+3. Password Cracking
+4. Penetration Testing
+5. Risk Assessment
+6. Security Auditing
+7. Security Scanning
+8. SQL Injection
+9. Vulnerability Scanning
+10. Posture Assessment
+11. URL manipulationthrough HTTP GET methods
+12. Buffer overflow Testing
